@@ -13,9 +13,13 @@ with Python's standard library.
 | 4 | Detect single-character XOR | `set1/challenge04_detect_single_character_xor/` |
 | 5 | Implement repeating-key XOR | `set1/challenge05_repeating_key_xor/` |
 | 6 | Break repeating-key XOR | `set1/challenge06_break_repeating_key_xor/` |
+| 7 | AES in ECB mode | `set1/challenge 7 AES in ECB mode/` |
+| 8 | Detect AES in ECB mode | `set1/challenge 8 Detect AES in ECB mode/` |
 
 Each challenge folder contains its `solution.py` and a challenge-specific
 README. Challenges that require input data keep it alongside the solution.
+Challenge 7 requires PyCryptodome; other listed challenges use the standard
+library.
 
 ## Requirements
 
