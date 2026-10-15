@@ -39,9 +39,8 @@ while incorrect keys usually produce unreadable output.
 ## Files
 
 ```text
-challenge_03.py       # Python solution
+solution.py           # Python solution
 README.md             # Project documentation
-.gitignore            # Files that should not be uploaded to GitHub
 ```
 
 ## Requirements
@@ -54,7 +53,7 @@ README.md             # Project documentation
 Open a terminal in the project folder and run:
 
 ```bash
-python challenge_03.py
+python solution.py
 ```
 
 ## Expected Output

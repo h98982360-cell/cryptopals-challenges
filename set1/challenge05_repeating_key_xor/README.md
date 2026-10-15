@@ -22,14 +22,14 @@ Key:       I C E I C E I
 ## Files
 
 ```text
-challenge_05.py       # Python implementation
+solution.py           # Python implementation
 README.md             # Project documentation
 ```
 
 ## How to Run
 
 ```bash
-python challenge_05.py
+python solution.py
 ```
 
 ## Expected Output

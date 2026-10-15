@@ -1,7 +1,8 @@
 # Cryptopals Set 1 — Challenge 4: Detect Single-Character XOR
 
-This challenge provides 60 hex-encoded strings. One of them has been encrypted
-using single-byte XOR. The goal is to identify that string and decrypt it.
+The bundled sample contains hex-encoded strings, one of which has been
+encrypted using single-byte XOR. The goal is to identify that string and
+decrypt it.
 
 ## Approach
 
@@ -18,7 +19,7 @@ it to every ciphertext in the file.
 ## Files
 
 ```text
-challenge_04.py       # Python solution
+solution.py           # Python solution
 4.txt                 # Challenge input data
 README.md             # This documentation
 ```
@@ -26,13 +27,13 @@ README.md             # This documentation
 ## How to Run
 
 ```bash
-python challenge_04.py
+python solution.py
 ```
 
 ## Expected Output
 
 ```text
-Line: 171
+Line: 4
 Key: 53 (5)
 Plaintext: Now that the party is jumping
 ```
