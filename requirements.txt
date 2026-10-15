@@ -1,1 +1,1 @@
-# All solutions use only the Python standard library.
+pycryptodome>=3.20

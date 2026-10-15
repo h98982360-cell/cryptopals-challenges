@@ -20,7 +20,7 @@ README. Challenges that require input data keep it alongside the solution.
 ## Requirements
 
 - Python 3.8 or newer
-- No third-party packages
+- PyCryptodome for Set 1, Challenge 7 (`pip install -r requirements.txt`)
 
 Run a solution from its challenge folder, for example:
 
